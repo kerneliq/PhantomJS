@@ -1,2 +1,2 @@
 # PhantomJS-2
-# rpm for rhel7
+PhantomJS 2 rpm for rhel7
